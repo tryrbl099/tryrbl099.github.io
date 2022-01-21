@@ -1,0 +1,28 @@
+.services {
+    width: 100vw;
+    height: 87vh;
+    background-color: #ffd800;
+}
+
+.services__pictureContainer {
+    width: 100vw;
+    text-align: center;
+}
+
+.services__imagesContainer {
+    width: 100vw;
+    height: 80vh;
+    background-color: red;
+}
+
+.services__h1Container {
+    width: 100vw;
+    text-align: center;
+}
+h1 {
+    font-size: 5rem;
+}
+
+.services__h1Container > p {
+    font-size: 3rem;
+}

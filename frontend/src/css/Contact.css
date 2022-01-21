@@ -1,0 +1,35 @@
+.contact {
+    width: 100vw;
+    height: 87vh;
+
+    display: grid;
+    place-items: center;
+}
+
+.contact__container {
+}
+
+/* .contact__info {
+    background-color: blue;
+} */
+
+.info1 {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 74%;
+    left: 60%;
+}
+
+.info2 {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 85%;
+    left: 60%;
+}
+
+.tele {
+    width: 77px;
+    height: 77px;
+}

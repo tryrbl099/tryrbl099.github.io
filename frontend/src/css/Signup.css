@@ -1,0 +1,30 @@
+.signup {
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    background-color: #e5e5e5;
+    place-items: center;
+}
+
+.signup__formContainer {
+    width: 40vw;
+    height: 80vh;
+    background-color: #ffd800;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.signup__imageContainer {
+    width: 50%;
+    height: 22vh;
+    background: url("./Logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.signup__form {
+    width: 50%;
+}

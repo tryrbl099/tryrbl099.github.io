@@ -1,0 +1,19 @@
+.order {
+    width: 100vw;
+    height: 87vh;
+
+    display: grid;
+    place-items: center;
+}
+
+.order__formContainer {
+    width: 50%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.order__form {
+    width: 50%;
+}
